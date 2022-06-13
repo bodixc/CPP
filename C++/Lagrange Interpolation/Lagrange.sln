@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lagrange", "Lagrange.vcxproj", "{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Debug|x64.ActiveCfg = Debug|Win32
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Debug|x64.Build.0 = Debug|Win32
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Debug|x86.ActiveCfg = Debug|x64
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Debug|x86.Build.0 = Debug|x64
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Release|x64.ActiveCfg = Release|x64
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Release|x64.Build.0 = Release|x64
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Release|x86.ActiveCfg = Release|Win32
+		{DBAB6C59-6BD8-4DCF-9E1C-5C96CB914B99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {587A29EA-BA13-4F3B-80F4-F546A93BAC9E}
+	EndGlobalSection
+EndGlobal
